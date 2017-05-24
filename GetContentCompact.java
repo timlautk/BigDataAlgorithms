@@ -16,11 +16,9 @@ public class GetContentCompact {
 			BufferedReader br = new BufferedReader(isr);
 			
 			int num = 0;
-            for (String line = br.readLine(); line != null; line = br.readLine())
-            {
-                num++;
-                if (num > 22)
-                {
+		    	for (String line = br.readLine(); line != null; line = br.readLine()){
+                            	num++;
+                		if (num > 22){
         			// fetching the USAF code
         			String uasf = line.substring(0, 6);
         			// fetching the name
@@ -32,7 +30,7 @@ public class GetContentCompact {
         			// Process of the current line
         			System.out.println(uasf + "\t" + name + "\t" + fips + "\t" +  alt);
         			} 
-                }
+           		     }
 		}finally{
 			//close the file
 			inStream.close();
