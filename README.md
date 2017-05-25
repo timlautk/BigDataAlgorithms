@@ -1,5 +1,5 @@
 # BigDataAlgorithms
-Hadoop and MapReduce Exercises for the Course "Big Data Algorithms, Techniques and Platforms" at Ecole Centrale Paris
+Hadoop and MapReduce Exercises for the Course "Big Data Algorithms, Techniques and Platforms" at Ecole Centrale Paris, by LAU TSZ KIT, tsz-kit.lau@student.ecp.fr
 
 Question 2.7: GetContentCSV.java
 
