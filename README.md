@@ -7,6 +7,6 @@ Question 2.8: GetContentCompact.java
 
 Question 4: lab1_lau_tsz_kit.pdf - the brief document containing the answers to the questions
 
-Question 4.1: In /Question4.1 - 9 source code java files, 3 jar files, 1 output file, screenshot4-1.png
+Question 4.1: In /Question4.1 - 9 source code java files, 3 jar files, 1 output file (obtained using local Hadoop instead of AWS EMR), screenshot4-1.png
 
-Question 4.2: In /Question4.2 - 6 source code java files, 1 jar files, 1 output file, screenshot4-2.png
+Question 4.2: In /Question4.2 - 6 source code java files, 1 jar files, 1 output file (obtained using local Hadoop instead of AWS EMR), screenshot4-2.png
