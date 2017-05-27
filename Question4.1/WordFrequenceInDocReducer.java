@@ -11,7 +11,8 @@ public class WordFrequenceInDocReducer
     public WordFrequenceInDocReducer() {
     }
 
-    protected void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
+    protected void reduce(Text key, Iterable<IntWritable> values, Context context) 
+	    throws IOException, InterruptedException {
  
         int sum = 0;
         for (IntWritable val : values) {
