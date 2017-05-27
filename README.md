@@ -9,4 +9,4 @@ Question 4: lab1_lau_tsz_kit.pdf - the brief document containing the answers to 
 
 Question 4.1: In /Question4.1 - 9 source code java files, screenshot4-1.png
 
-Question 4.2: In /Question4.2 - , screenshot4-2.png
+Question 4.2: In /Question4.2 - 9 source code java files, screenshot4-2.png
